@@ -1,4 +1,4 @@
-# LSE_DA_COVID_analysis
+# LSE_DA_COVID_analysis_DILANKOC
 
 LSE Course 2 assignment
 
